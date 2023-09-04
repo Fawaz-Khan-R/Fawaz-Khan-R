@@ -1,8 +1,3 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://your-image-url.com/your-image.png" alt="Your Name's GitHub Header">
-</p>
-
 <!-- Title -->
 <h1 align="center">👋 Hello, World! I'm Fawaz Khan🤗</h1>
 
@@ -45,8 +40,9 @@
   <img src="https://your-tech-stack-image-url.com" alt="Tech Stack" width="50%">
 </p>
 -->
-<!-- Portfolio -->
+<!-- Portfolio 
 <h2 align="center">📝 Portfolio</h2>
+-->
 <!--
 <p align="center">
   You can explore some of my projects in my portfolio by visiting [Your Portfolio URL]. Here are a few highlights:
