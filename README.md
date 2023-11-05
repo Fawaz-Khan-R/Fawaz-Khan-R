@@ -9,7 +9,10 @@
   Welcome to my GitHub playground! I'm a passionate learner, explorer, and coder who's always up for a challenge.
   Currently on my journey through DSU's CS program, I'm enthusiastic about exploring the world of tech and creating meaningful projects.
 </p>
-![](https://komarev.com/ghpvc/?username=Fawaz-Khan-R&color=blueviolet&style=plastic)
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Fawaz-Khan-R&style=flat&color=blue">
+</a>
+
 
 <!-- About Me -->
 <h2 align="center">🚀 About Me</h2>
