@@ -9,7 +9,7 @@
   Welcome to my GitHub playground! I'm a passionate learner, explorer, and coder who's always up for a challenge.
   Currently on my journey through DSU's CS program, I'm enthusiastic about exploring the world of tech and creating meaningful projects.
 </p>
-<p align='center'>![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=plastic) </p>
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=plastic)
 
 <!-- About Me -->
 <h2 align="center">🚀 About Me</h2>
