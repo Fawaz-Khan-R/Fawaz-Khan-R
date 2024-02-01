@@ -10,18 +10,22 @@
 <h3 align="center">A Curious Pre-Final Year Student from Dayananda Sagar University</h3>
 
 <br/>
-
-<div align="center">
+<img align="right" src = "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<div align="left">
  
  🔭 I’m currently doing my bachelors in **Computer Science**
  
  🌱 I’m currently working on my **DSA skills and ML models**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 📚 Hobbies: When I'm not coding or studying, I enjoy reading Manga and watching Anime!
+ 
+    printf(Shinzou wo Sasageyo!!!);
+
+ ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
-<div align="center"> 
+<div align="left"> 
   <a href="mailto:fawazxkhan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -59,7 +63,7 @@
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Fawaz-Khan-R&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Fawaz-Khan-R&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=368 src="https://github-readme-stats-salesp07.vercel.app/api?username=Fawaz-Khan-R&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Fawaz-Khan-R&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
