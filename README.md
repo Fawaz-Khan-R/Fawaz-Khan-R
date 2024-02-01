@@ -13,15 +13,15 @@
 <img align="right" src = "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 <div align="left">
  
- 🔭 I’m currently doing my bachelors in **Computer Science**
+ 🔭 Education: I’m currently doing my bachelors in **Computer Science**
  
- 🌱 I’m currently working on my **DSA skills and ML models**
+ 🌱 Learning: I’m currently working on my **DSA skills and ML models**
 
- 📚 Hobbies: When I'm not coding or studying, I enjoy reading Manga and watching Anime!
+ 📚 Hobbies: When I'm not coding or studying, I enjoy playing chess, reading Manga and watching Anime!
  
     printf(Shinzou wo Sasageyo!!!);
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ ⚡ Fun fact: **In chess, it's possible to checkmate your opponent in just 2 moves!!**
 
  </div>
  
