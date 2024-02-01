@@ -1,75 +1,67 @@
-<!-- Title -->
-<h1 align="center">👋 Hello, World! I'm Fawaz Khan🤗</h1>
-
-<!-- Subtitle -->
-<h3 align="center">A Curious Pre-Final Year Student from Dayananda Sagar University</h3>
-
-<!-- Introduction -->
-<p align="center">
-  Welcome to my GitHub playground! I'm a passionate learner, explorer, and coder who's always up for a challenge.
-  Currently on my journey through DSU's CS program, I'm enthusiastic about exploring the world of tech and creating meaningful projects.
-</p>
+<div align="right">
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Fawaz-Khan-R&style=flat&color=blue">
 </a>
+</div>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Fawaz+Khan!;" />
+</h1>
 
+<h3 align="center">A Curious Pre-Final Year Student from Dayananda Sagar University</h3>
 
-<!-- About Me -->
-<h2 align="center">🚀 About Me</h2>
+<br/>
 
-<p align="center">
-  As a pre-final year student, I'm at that exciting stage where I'm bridging the gap between academic knowledge and real-world applications. Here are a few things that define me:
-</p>
+<div align="center">
+ 
+ 🔭 I’m currently doing my bachelors in **Computer Science**
+ 
+ 🌱 I’m currently working on my **DSA skills and ML models**
 
-- 🎓 **Education**: I'm pursuing my CS degree at Dayananda Sagar.
-- 💡 **Passion**: I'm deeply passionate about Machine Learning, and I'm constantly seeking ways to expand my horizons in this field.
-- 🌱 **Learning**: Currently, I'm diving deep into Artificial Intelligence, and I'm always eager to learn new things.
-- 🤹 **Skills**: Ask me about Python, and I'd be happy to share my knowledge and experiences.
-- 📚 **Hobbies**: When I'm not coding or studying, I enjoy reading Manga and watching Anime! ***Shinzou wo Sasageyo!!!***
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
-<!-- Tech Stack -->
-<h2 align="center">🛠️ Tech Stack</h2>
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:fawazxkhan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/fawaz-khanr" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.instagram.com/fazzy_me_/" target="_blank">
+     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-  Here are some of the tools and technologies that I've been working with and learning:
-- 🌐 Web Development: HTML, CSS, JavaScript
-- 🐍 Programming Languages: Python, C, Dart, (Currently working on Java and Kotlin)
-- 💾 Data Science: Pandas, NumPy, Matplotlib, etc.
-- 💻Machine Learning: TensorFlow, scikit-learn, etc.
-- 📱 Mobile App Development: Flutter, etc.
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,c,java,javascript,express,html,css,kotlin,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=tensorflow,opencv,nodejs,express,mysql,discord,github,githubactions,linux,androidstudio" /><br>
+</div>
 
+<br/>
+<hr/>
 
-<!-- List of technologies 
-- Have to include these
-<p align="center">
-  <img src="https://your-tech-stack-image-url.com" alt="Tech Stack" width="50%">
-</p>
--->
-<!-- Portfolio 
-<h2 align="center">📝 Portfolio</h2>
--->
-<!--
-<p align="center">
-  You can explore some of my projects in my portfolio by visiting [Your Portfolio URL]. Here are a few highlights:
-</p>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Fawaz-khan-R/Fawaz-Khan-R/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-- 🚀 [Project 1](https://project1-url.com): A description of your first project.
-- 🔗 [Project 2](https://project2-url.com): A description of your second project.
-- 🌐 [Project 3](https://project3-url.com): A description of your third project.
--->
-<!-- Contact Me -->
-<h2 align="center">📫 Contact Me</h2>
+<hr/>
 
-<p align="center">
-  I'm always excited to connect and collaborate with fellow learners and creators. Feel free to reach out to me through:
-</p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Fawaz-Khan-R&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Fawaz-Khan-R&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Fawaz-Khan-R&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-<p align="left">
-  📧 Email: fawazxkhan@gmail.com <br>
-  💼 LinkedIn: https://www.linkedin.com/in/fawaz-khanr/ <br>
-  🐦 Instagram: https://www.instagram.com/fazzy_me_/
-</p>
-
-<!-- Closing -->
-<p align="center">
-  Thanks for stopping by and checking out my GitHub profile! Let's code, learn, and explore together. 😊
-</p>
+<br/><br/>
