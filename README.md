@@ -43,7 +43,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,c,java,javascript,express,html,css,kotlin,vscode" /><br>
-    <img src="https://skillicons.dev/icons?i=tensorflow,opencv,nodejs,express,mysql,discord,github,githubactions,linux,androidstudio" /><br>
+    <img src="https://skillicons.dev/icons?i=tensorflow,opencv,nodejs,mysql,discord,github,githubactions,linux,androidstudio" /><br>
 </div>
 
 <br/>
