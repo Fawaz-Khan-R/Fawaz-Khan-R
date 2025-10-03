@@ -15,7 +15,7 @@
  
  🔭 Education: I’m currently doing my bachelors in **Computer Science**
  
- 🌱 Learning: I’m currently working on my **DSA skills and ML models**
+ 🌱 Learning: I’m currently working on my **Developing my skills in Agentic AI**
 
  📚 Hobbies: When I'm not coding or studying, I enjoy playing chess, reading Manga and watching Anime!
  
